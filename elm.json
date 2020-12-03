@@ -1,6 +1,6 @@
 {
     "type": "package",
-    "name": "solcates/elm-oauth2",
+    "name": "solcates/solcates-elm-oauth2",
     "summary": "OAuth 2.0 client-side utils",
     "license": "MIT",
     "version": "1.0.0",
